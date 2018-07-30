@@ -1,0 +1,18 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Kimbie Dark",
+    "editor.insertSpaces": false,
+    "cSpell.language": "en",
+    "vsicons.projectDetection.autoReload": true,
+    "cSpell.userWords": [
+        "noopener"
+    ],
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "html.format.indentInnerHtml": true
+}
