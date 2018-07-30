@@ -13,6 +13,7 @@ export class AppComponent {
 			console.log('Hello World!');
 		}
 	}
+
 	onClick2() {
 		if (true) {
 			console.log('Hello Ermis, Nice to meet you!');
