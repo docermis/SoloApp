@@ -14,5 +14,8 @@
         "**/CVS": true,
         "**/.DS_Store": true
     },
-    "html.format.indentInnerHtml": true
+    "html.format.indentInnerHtml": true,
+    "cSpell.words": [
+        "ermis"
+    ]
 }
