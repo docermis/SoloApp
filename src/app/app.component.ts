@@ -18,5 +18,4 @@ export class AppComponent {
 			console.log('Hello Ermis, Nice to meet you!');
 		}
 	}
-
 }
